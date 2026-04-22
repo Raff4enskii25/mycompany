@@ -59,13 +59,13 @@ https://hub.docker.com/r/raff4enskii25/mycompany
 ## Скриншоты
 
 ### Главная страница
-![Главная страница](https://iimg.su/i/jJeYh2.jpg)
+![Главная страница](https://iili.io/B4qGUQV.png)
 
 ### Список услуг
-![Список услуг](https://iimg.su/i/e6Psv3.jpg)
+![Список услуг](https://iili.io/B4qGShQ.png)
 
 ### Админ-панель
-![Админ-панель](https://iimg.su/i/mznYqY.jpg)
+![Админ-панель](https://iili.io/B4qGkpj.png)
 
 ### Редактирование услуги
-![Редактирование услуги](https://iimg.su/i/1KkZLO.jpg)
+![Редактирование услуги](https://iili.io/B4qGekb.png)
